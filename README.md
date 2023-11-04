@@ -51,6 +51,7 @@ $ docker-compose up -d
 
 * A requirements.txt with the Python library necessary to connect with Firebase project.
 
-## Attention!
+# Attention!
 
 * To run this project you need a Firebase account and a project created with a Cloud Firestore database created to get a json file with the key to connect.
+* Check [this article](https://community.intersystems.com/post/connecting-intersystems-iris-and-firebase-cloud-firestore) from the developer community
